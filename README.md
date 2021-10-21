@@ -2,7 +2,7 @@ Spotify Billboard Scraper is a webscraper that scrapes the Top 100 songs from Bi
 
 Note:
 You will need your own Spotify Developer account. Create a new app and find your Client ID and Client Secret.
-Edit the app settings and under 'Website' and 'Redirect URIs' enter "http://example.com" into both and save.
+Edit the app settings and under 'Website' and 'Redirect URIs' and enter "http://example.com" into both and save.
 
 To Use:
 1. Download main.py
